@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\bin\Debug\net6.0\upcasting_127.exe
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\bin\Debug\net6.0\upcasting_127.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\bin\Debug\net6.0\upcasting_127.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\bin\Debug\net6.0\upcasting_127.dll
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\bin\Debug\net6.0\upcasting_127.pdb
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\upcasting_127.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\upcasting_127.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\upcasting_127.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\upcasting_127.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\upcasting_127.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\upcasting_127.dll
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\refint\upcasting_127.dll
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\upcasting_127.pdb
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\upcasting_127.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\upcasting_127\upcasting_127\obj\Debug\net6.0\ref\upcasting_127.dll

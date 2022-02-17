@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\bin\Debug\net6.0\sobre_128.exe
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\bin\Debug\net6.0\sobre_128.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\bin\Debug\net6.0\sobre_128.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\bin\Debug\net6.0\sobre_128.dll
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\bin\Debug\net6.0\sobre_128.pdb
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\sobre_128.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\sobre_128.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\sobre_128.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\sobre_128.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\sobre_128.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\sobre_128.dll
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\refint\sobre_128.dll
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\sobre_128.pdb
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\sobre_128.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\sobre_128\sobre_128\obj\Debug\net6.0\ref\sobre_128.dll

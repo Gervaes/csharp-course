@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\heranca_126.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\heranca_126.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\heranca_126.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\heranca_126.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\heranca_126.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\bin\Debug\net6.0\heranca_126.exe
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\bin\Debug\net6.0\heranca_126.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\bin\Debug\net6.0\heranca_126.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\bin\Debug\net6.0\heranca_126.dll
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\bin\Debug\net6.0\heranca_126.pdb
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\heranca_126.dll
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\refint\heranca_126.dll
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\heranca_126.pdb
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\heranca_126.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\heranca_126\heranca_126\obj\Debug\net6.0\ref\heranca_126.dll
