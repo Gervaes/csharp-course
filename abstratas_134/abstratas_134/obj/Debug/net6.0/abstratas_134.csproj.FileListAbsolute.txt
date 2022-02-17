@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\bin\Debug\net6.0\abstratas_134.exe
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\bin\Debug\net6.0\abstratas_134.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\bin\Debug\net6.0\abstratas_134.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\bin\Debug\net6.0\abstratas_134.dll
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\bin\Debug\net6.0\abstratas_134.pdb
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\abstratas_134.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\abstratas_134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\abstratas_134.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\abstratas_134.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\abstratas_134.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\abstratas_134.dll
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\refint\abstratas_134.dll
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\abstratas_134.pdb
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\abstratas_134.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\abstratas_134\abstratas_134\obj\Debug\net6.0\ref\abstratas_134.dll
