@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.dll
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\bin\Debug\net6.0\ref\Primeiro.dll
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.dll
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache

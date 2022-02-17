@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\bin\Debug\net6.0\exercicio1_119.exe
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\bin\Debug\net6.0\exercicio1_119.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\bin\Debug\net6.0\exercicio1_119.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\bin\Debug\net6.0\exercicio1_119.dll
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\bin\Debug\net6.0\exercicio1_119.pdb
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\exercicio1_119.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\exercicio1_119.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\exercicio1_119.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\exercicio1_119.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\exercicio1_119.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\exercicio1_119.dll
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\refint\exercicio1_119.dll
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\exercicio1_119.pdb
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\exercicio1_119.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\exercicio1_119\exercicio1_119\obj\Debug\net6.0\ref\exercicio1_119.dll

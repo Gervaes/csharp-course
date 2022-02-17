@@ -1,0 +1,15 @@
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\bin\Debug\net6.0\inferencia_85.exe
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\bin\Debug\net6.0\inferencia_85.deps.json
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\bin\Debug\net6.0\inferencia_85.runtimeconfig.json
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\bin\Debug\net6.0\inferencia_85.dll
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\bin\Debug\net6.0\inferencia_85.pdb
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\inferencia_85.csproj.AssemblyReference.cache
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\inferencia_85.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\inferencia_85.AssemblyInfoInputs.cache
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\inferencia_85.AssemblyInfo.cs
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\inferencia_85.csproj.CoreCompileInputs.cache
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\inferencia_85.dll
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\refint\inferencia_85.dll
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\inferencia_85.pdb
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\inferencia_85.genruntimeconfig.cache
+C:\Users\eoger\source\repos\inferencia_85\inferencia_85\obj\Debug\net6.0\ref\inferencia_85.dll

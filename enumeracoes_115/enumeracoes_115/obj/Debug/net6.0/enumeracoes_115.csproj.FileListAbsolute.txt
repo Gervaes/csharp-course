@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\bin\Debug\net6.0\enumeracoes_115.exe
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\bin\Debug\net6.0\enumeracoes_115.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\bin\Debug\net6.0\enumeracoes_115.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\bin\Debug\net6.0\enumeracoes_115.dll
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\bin\Debug\net6.0\enumeracoes_115.pdb
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\enumeracoes_115.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\enumeracoes_115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\enumeracoes_115.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\enumeracoes_115.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\enumeracoes_115.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\enumeracoes_115.dll
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\refint\enumeracoes_115.dll
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\enumeracoes_115.pdb
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\enumeracoes_115.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\enumeracoes_115\enumeracoes_115\obj\Debug\net6.0\ref\enumeracoes_115.dll

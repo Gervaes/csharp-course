@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\bin\Debug\net6.0\matrix-80.exe
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\bin\Debug\net6.0\matrix-80.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\bin\Debug\net6.0\matrix-80.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\bin\Debug\net6.0\matrix-80.dll
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\bin\Debug\net6.0\ref\matrix-80.dll
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\bin\Debug\net6.0\matrix-80.pdb
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\obj\Debug\net6.0\matrix-80.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\obj\Debug\net6.0\matrix-80.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\obj\Debug\net6.0\matrix-80.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\obj\Debug\net6.0\matrix-80.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\obj\Debug\net6.0\matrix-80.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\obj\Debug\net6.0\matrix-80.dll
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\obj\Debug\net6.0\ref\matrix-80.dll
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\obj\Debug\net6.0\matrix-80.pdb
+C:\Users\eoger\Desktop\Projetos\C#\matrix-80\matrix-80\obj\Debug\net6.0\matrix-80.genruntimeconfig.cache

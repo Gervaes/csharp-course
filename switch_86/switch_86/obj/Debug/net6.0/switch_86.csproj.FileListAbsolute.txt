@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\bin\Debug\net6.0\switch_86.exe
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\bin\Debug\net6.0\switch_86.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\bin\Debug\net6.0\switch_86.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\bin\Debug\net6.0\switch_86.dll
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\bin\Debug\net6.0\switch_86.pdb
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\switch_86.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\switch_86.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\switch_86.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\switch_86.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\switch_86.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\switch_86.dll
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\refint\switch_86.dll
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\switch_86.pdb
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\switch_86.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\switch_86\switch_86\obj\Debug\net6.0\ref\switch_86.dll

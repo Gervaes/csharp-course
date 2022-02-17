@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\ternario_87.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\ternario_87.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\ternario_87.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\ternario_87.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\ternario_87.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\bin\Debug\net6.0\ternario_87.exe
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\bin\Debug\net6.0\ternario_87.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\bin\Debug\net6.0\ternario_87.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\bin\Debug\net6.0\ternario_87.dll
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\bin\Debug\net6.0\ternario_87.pdb
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\ternario_87.dll
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\refint\ternario_87.dll
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\ternario_87.pdb
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\ternario_87.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\ternario_87\ternario_87\obj\Debug\net6.0\ref\ternario_87.dll

@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\bin\Debug\net6.0\timespan_90.exe
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\bin\Debug\net6.0\timespan_90.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\bin\Debug\net6.0\timespan_90.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\bin\Debug\net6.0\timespan_90.dll
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\bin\Debug\net6.0\timespan_90.pdb
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\timespan_90.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\timespan_90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\timespan_90.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\timespan_90.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\timespan_90.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\timespan_90.dll
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\refint\timespan_90.dll
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\timespan_90.pdb
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\timespan_90.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\timespan_90\timespan_90\obj\Debug\net6.0\ref\timespan_90.dll

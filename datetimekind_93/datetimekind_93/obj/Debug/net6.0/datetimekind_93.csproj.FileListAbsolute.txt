@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\bin\Debug\net6.0\datetimekind_93.exe
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\bin\Debug\net6.0\datetimekind_93.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\bin\Debug\net6.0\datetimekind_93.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\bin\Debug\net6.0\datetimekind_93.dll
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\bin\Debug\net6.0\datetimekind_93.pdb
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\datetimekind_93.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\datetimekind_93.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\datetimekind_93.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\datetimekind_93.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\datetimekind_93.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\datetimekind_93.dll
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\refint\datetimekind_93.dll
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\datetimekind_93.pdb
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\datetimekind_93.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\datetimekind_93\datetimekind_93\obj\Debug\net6.0\ref\datetimekind_93.dll

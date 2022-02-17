@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\bin\Debug\net6.0\string_88.exe
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\bin\Debug\net6.0\string_88.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\bin\Debug\net6.0\string_88.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\bin\Debug\net6.0\string_88.dll
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\bin\Debug\net6.0\string_88.pdb
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\string_88.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\string_88.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\string_88.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\string_88.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\string_88.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\string_88.dll
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\refint\string_88.dll
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\string_88.pdb
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\string_88.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\string_88\string_88\obj\Debug\net6.0\ref\string_88.dll

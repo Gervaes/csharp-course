@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffb78d45-e71b-4f8a-b468-660083e87260": {
+      "ProjectGuid": "ffb78d45-e71b-4f8a-b468-660083e87260",
+      "DisplayName": "Course",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "d2318cdd-c24d-497c-8db5-9aa7eae386f0": {
+      "ProjectGuid": "d2318cdd-c24d-497c-8db5-9aa7eae386f0",
+      "DisplayName": "matrix-80",
+      "ColorIndex": 1
+    },
+    "18ab125c-6afd-429a-a550-e0677071ac5c": {
+      "ProjectGuid": "18ab125c-6afd-429a-a550-e0677071ac5c",
+      "DisplayName": "matrix-81",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
