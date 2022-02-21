@@ -18,16 +18,16 @@ namespace board
             this.Pieces = new Piece[rows, columns];
         }
 
+        public Piece Piece(Position position) {
+            return Pieces[position.Row, position.Column];
+        }
+
         public Piece Piece(int row, int column) { 
             return Pieces[row, column];
         }
 
-        public Piece Piece(Position position) { 
-            return Pieces[position.Row, position.Column];
-        }
-
         public bool PieceExists(Position position) { 
-            validPosition(position);
+            ValidatePosition(position);
             return Piece(position) != null;
         }
 
@@ -49,14 +49,14 @@ namespace board
             return aux;
         }
 
-        public bool checkValidPosition(Position position) { 
-            if(position.Row < 0 || position.Row > Rows || position.Column < 0 || position.Column > Columns)
+        public bool CheckValidPosition(Position position) { 
+            if(position.Row < 0 || position.Row >= Rows || position.Column < 0 || position.Column >= Columns)
                 return false;
             return true;
         }
 
-        public void validPosition(Position position) {
-            if (!checkValidPosition(position))
+        public void ValidatePosition(Position position) {
+            if (!CheckValidPosition(position))
                 throw new BoardException("Invalid position!");
         }
     }
