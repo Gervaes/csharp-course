@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\bin\Debug\net6.0\genericsrestrictions_206.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\bin\Debug\net6.0\genericsrestrictions_206.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\bin\Debug\net6.0\genericsrestrictions_206.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\bin\Debug\net6.0\genericsrestrictions_206.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\bin\Debug\net6.0\genericsrestrictions_206.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\genericsrestrictions_206.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\genericsrestrictions_206.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\genericsrestrictions_206.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\genericsrestrictions_206.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\genericsrestrictions_206.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\genericsrestrictions_206.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\refint\genericsrestrictions_206.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\genericsrestrictions_206.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\genericsrestrictions_206.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\genericsrestrictions_206\genericsrestrictions_206\obj\Debug\net6.0\ref\genericsrestrictions_206.dll

@@ -28,7 +28,6 @@ namespace xadrez_console {
                         Console.Write("Destination: ");
                         Position destination = Screen.readChessPosition().toPosition();
                         game.ValidateDestination(origin, destination);
-
                         game.PlayTurn(origin, destination);
                     }
                     catch (BoardException e) {
@@ -36,6 +35,8 @@ namespace xadrez_console {
                         Console.ReadLine();
                     }
                 }
+                Console.Clear();
+                Screen.ShowGame(game);
             }
             catch (BoardException e) {
                 Console.WriteLine($"Error: {e.Message}");

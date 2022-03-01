@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\bin\Debug\net6.0\directory_190.exe
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\bin\Debug\net6.0\directory_190.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\bin\Debug\net6.0\directory_190.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\bin\Debug\net6.0\directory_190.dll
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\bin\Debug\net6.0\directory_190.pdb
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\directory_190.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\directory_190.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\directory_190.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\directory_190.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\directory_190.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\directory_190.dll
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\refint\directory_190.dll
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\directory_190.pdb
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\directory_190.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\directory_190\directory_190\obj\Debug\net6.0\ref\directory_190.dll

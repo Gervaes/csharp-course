@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\bin\Debug\net6.0\extension_217.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\bin\Debug\net6.0\extension_217.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\bin\Debug\net6.0\extension_217.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\bin\Debug\net6.0\extension_217.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\bin\Debug\net6.0\extension_217.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\extension_217.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\extension_217.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\extension_217.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\extension_217.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\extension_217.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\extension_217.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\refint\extension_217.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\extension_217.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\extension_217.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\extension_217\extension_217\obj\Debug\net6.0\ref\extension_217.dll

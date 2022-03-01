@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\bin\Debug\net6.0\gethashcodeequals.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\bin\Debug\net6.0\gethashcodeequals.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\bin\Debug\net6.0\gethashcodeequals.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\bin\Debug\net6.0\gethashcodeequals.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\bin\Debug\net6.0\gethashcodeequals.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\gethashcodeequals.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\gethashcodeequals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\gethashcodeequals.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\gethashcodeequals.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\gethashcodeequals.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\gethashcodeequals.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\refint\gethashcodeequals.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\gethashcodeequals.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\gethashcodeequals.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\gethashcodeequals\gethashcodeequals\obj\Debug\net6.0\ref\gethashcodeequals.dll

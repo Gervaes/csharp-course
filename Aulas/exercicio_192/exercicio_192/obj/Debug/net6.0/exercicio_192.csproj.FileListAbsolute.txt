@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\bin\Debug\net6.0\exercicio_192.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\bin\Debug\net6.0\exercicio_192.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\bin\Debug\net6.0\exercicio_192.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\bin\Debug\net6.0\exercicio_192.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\bin\Debug\net6.0\exercicio_192.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\exercicio_192.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\exercicio_192.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\exercicio_192.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\exercicio_192.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\exercicio_192.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\exercicio_192.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\refint\exercicio_192.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\exercicio_192.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\exercicio_192.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_192\exercicio_192\obj\Debug\net6.0\ref\exercicio_192.dll

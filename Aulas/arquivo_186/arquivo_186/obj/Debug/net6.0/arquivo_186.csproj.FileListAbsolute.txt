@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\bin\Debug\net6.0\arquivo_186.exe
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\bin\Debug\net6.0\arquivo_186.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\bin\Debug\net6.0\arquivo_186.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\bin\Debug\net6.0\arquivo_186.dll
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\bin\Debug\net6.0\arquivo_186.pdb
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\arquivo_186.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\arquivo_186.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\arquivo_186.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\arquivo_186.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\arquivo_186.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\arquivo_186.dll
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\refint\arquivo_186.dll
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\arquivo_186.pdb
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\arquivo_186.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\arquivo_186\arquivo_186\obj\Debug\net6.0\ref\arquivo_186.dll

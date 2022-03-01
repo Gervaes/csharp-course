@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\bin\Debug\net6.0\block_188.exe
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\bin\Debug\net6.0\block_188.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\bin\Debug\net6.0\block_188.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\bin\Debug\net6.0\block_188.dll
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\bin\Debug\net6.0\block_188.pdb
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\block_188.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\block_188.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\block_188.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\block_188.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\block_188.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\block_188.dll
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\refint\block_188.dll
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\block_188.pdb
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\block_188.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\block_188\block_188\obj\Debug\net6.0\ref\block_188.dll

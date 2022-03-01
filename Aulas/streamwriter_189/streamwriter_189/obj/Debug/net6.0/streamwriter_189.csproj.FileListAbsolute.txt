@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\bin\Debug\net6.0\streamwriter_189.exe
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\bin\Debug\net6.0\streamwriter_189.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\bin\Debug\net6.0\streamwriter_189.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\bin\Debug\net6.0\streamwriter_189.dll
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\bin\Debug\net6.0\streamwriter_189.pdb
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\streamwriter_189.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\streamwriter_189.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\streamwriter_189.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\streamwriter_189.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\streamwriter_189.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\streamwriter_189.dll
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\refint\streamwriter_189.dll
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\streamwriter_189.pdb
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\streamwriter_189.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\streamwriter_189\streamwriter_189\obj\Debug\net6.0\ref\streamwriter_189.dll

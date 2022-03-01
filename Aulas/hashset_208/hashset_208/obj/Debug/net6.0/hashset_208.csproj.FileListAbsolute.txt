@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\bin\Debug\net6.0\hashset_208.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\bin\Debug\net6.0\hashset_208.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\bin\Debug\net6.0\hashset_208.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\bin\Debug\net6.0\hashset_208.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\bin\Debug\net6.0\hashset_208.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\hashset_208.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\hashset_208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\hashset_208.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\hashset_208.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\hashset_208.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\hashset_208.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\refint\hashset_208.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\hashset_208.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\hashset_208.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_208\hashset_208\obj\Debug\net6.0\ref\hashset_208.dll

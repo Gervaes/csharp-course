@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\bin\Debug\net6.0\icomparable_202.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\bin\Debug\net6.0\icomparable_202.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\bin\Debug\net6.0\icomparable_202.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\bin\Debug\net6.0\icomparable_202.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\bin\Debug\net6.0\icomparable_202.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\icomparable_202.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\icomparable_202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\icomparable_202.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\icomparable_202.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\icomparable_202.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\icomparable_202.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\refint\icomparable_202.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\icomparable_202.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\icomparable_202.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\icomparable_202\icomparable_202\obj\Debug\net6.0\ref\icomparable_202.dll

@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\bin\Debug\net6.0\hashset_209.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\bin\Debug\net6.0\hashset_209.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\bin\Debug\net6.0\hashset_209.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\bin\Debug\net6.0\hashset_209.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\bin\Debug\net6.0\hashset_209.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\hashset_209.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\hashset_209.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\hashset_209.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\hashset_209.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\hashset_209.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\hashset_209.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\refint\hashset_209.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\hashset_209.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\hashset_209.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\hashset_209\hashset_209\obj\Debug\net6.0\ref\hashset_209.dll

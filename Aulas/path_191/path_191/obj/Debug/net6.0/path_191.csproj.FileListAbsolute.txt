@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\bin\Debug\net6.0\path_191.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\bin\Debug\net6.0\path_191.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\bin\Debug\net6.0\path_191.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\bin\Debug\net6.0\path_191.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\bin\Debug\net6.0\path_191.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\path_191.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\path_191.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\path_191.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\path_191.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\path_191.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\path_191.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\refint\path_191.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\path_191.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\path_191.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\path_191\path_191\obj\Debug\net6.0\ref\path_191.dll

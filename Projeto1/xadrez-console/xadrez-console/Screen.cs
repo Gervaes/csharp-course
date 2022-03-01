@@ -9,13 +9,24 @@ namespace xadrez_console {
             Screen.showBoard(game.Board);
             Console.WriteLine();
             ShowCapturedPieces(game);
+            Console.WriteLine();
             Console.WriteLine($"Turn: {game.Turn}");
-            Console.WriteLine($"Waiting for {game.CurrentPlayer} to play...");
+
+            if(!game.Finished) { 
+                Console.WriteLine($"Waiting for {game.CurrentPlayer} to play...");
+                if (game.Check)
+                    Console.WriteLine("Check!");
+
+            } else {
+                Console.WriteLine("Checkmate!");
+                Console.WriteLine($"Winner: {game.CurrentPlayer}");
+            }
+
 
         }
 
         public static void ShowCapturedPieces(ChessGame game) {
-            Console.WriteLine("Captrued Pieces: ");
+            Console.WriteLine("Captured Pieces: ");
             Console.Write("White: ");
             ShowSet(game.CapturedPieces(Color.White));
             Console.Write("Black: ");

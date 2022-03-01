@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\bin\Debug\net6.0\exercicio_212.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\bin\Debug\net6.0\exercicio_212.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\bin\Debug\net6.0\exercicio_212.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\bin\Debug\net6.0\exercicio_212.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\bin\Debug\net6.0\exercicio_212.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\exercicio_212.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\exercicio_212.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\exercicio_212.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\exercicio_212.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\exercicio_212.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\exercicio_212.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\refint\exercicio_212.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\exercicio_212.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\exercicio_212.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\exercicio_212\exercicio_212\obj\Debug\net6.0\ref\exercicio_212.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "genericsrestrictions_206/1.0.0": {
+        "runtime": {
+          "genericsrestrictions_206.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "genericsrestrictions_206/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

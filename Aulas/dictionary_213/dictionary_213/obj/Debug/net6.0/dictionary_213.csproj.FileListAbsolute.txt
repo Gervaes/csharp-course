@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\bin\Debug\net6.0\dictionary_213.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\bin\Debug\net6.0\dictionary_213.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\bin\Debug\net6.0\dictionary_213.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\bin\Debug\net6.0\dictionary_213.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\bin\Debug\net6.0\dictionary_213.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\dictionary_213.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\dictionary_213.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\dictionary_213.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\dictionary_213.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\dictionary_213.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\dictionary_213.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\refint\dictionary_213.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\dictionary_213.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\dictionary_213.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\dictionary_213\dictionary_213\obj\Debug\net6.0\ref\dictionary_213.dll

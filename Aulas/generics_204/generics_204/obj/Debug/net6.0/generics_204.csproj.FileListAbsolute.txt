@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\bin\Debug\net6.0\generics_204.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\bin\Debug\net6.0\generics_204.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\bin\Debug\net6.0\generics_204.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\bin\Debug\net6.0\generics_204.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\bin\Debug\net6.0\generics_204.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\generics_204.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\generics_204.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\generics_204.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\generics_204.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\generics_204.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\generics_204.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\refint\generics_204.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\generics_204.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\generics_204.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\generics_204\generics_204\obj\Debug\net6.0\ref\generics_204.dll

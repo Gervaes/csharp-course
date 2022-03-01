@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\bin\Debug\net6.0\diamante_201.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\bin\Debug\net6.0\diamante_201.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\bin\Debug\net6.0\diamante_201.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\bin\Debug\net6.0\diamante_201.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\bin\Debug\net6.0\diamante_201.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\diamante_201.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\diamante_201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\diamante_201.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\diamante_201.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\diamante_201.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\diamante_201.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\refint\diamante_201.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\diamante_201.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\diamante_201.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\diamante_201\diamante_201\obj\Debug\net6.0\ref\diamante_201.dll

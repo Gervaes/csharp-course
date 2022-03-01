@@ -1,0 +1,15 @@
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\bin\Debug\net6.0\interface_194.exe
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\bin\Debug\net6.0\interface_194.deps.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\bin\Debug\net6.0\interface_194.runtimeconfig.json
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\bin\Debug\net6.0\interface_194.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\bin\Debug\net6.0\interface_194.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\interface_194.csproj.AssemblyReference.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\interface_194.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\interface_194.AssemblyInfoInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\interface_194.AssemblyInfo.cs
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\interface_194.csproj.CoreCompileInputs.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\interface_194.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\refint\interface_194.dll
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\interface_194.pdb
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\interface_194.genruntimeconfig.cache
+C:\Users\eoger\Desktop\Projetos\C#\Aulas\interface_194\interface_194\obj\Debug\net6.0\ref\interface_194.dll
